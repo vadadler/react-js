@@ -1,10 +1,10 @@
-# Webpack React Starter Kit
+# React Starter Kit with Webpack and Babel
 
 ## Getting Started
 
-    git clone https://github.com/jkup/webpack-react-starter.git
-    cd webpack-react-starter
+    git clone https://github.com/vadadler/react-js.git
+    cd react-js/react-starter
     npm install
     npm start
 
-Then just open http://localhost:8080 in your browser!
+Then just open http://localhost:2222 in your browser
